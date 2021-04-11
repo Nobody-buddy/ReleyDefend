@@ -1,0 +1,11 @@
+releydefend	KEYWORD1
+Defend	KEYWORD1
+
+setMCDefend	KEYWORD2
+setCCODefend	KEYWORD2
+setAutoReserve	KEYWORD2
+maxCurrentDefend	KEYWORD2
+CurrentCutOff	KEYWORD2
+AutoRepeat	KEYWORD2
+AutoReserve	KEYWORD2
+CommonSwitch	KEYWORD2
